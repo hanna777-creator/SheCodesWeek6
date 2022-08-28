@@ -24,3 +24,6 @@ body {
 .card {
   display: block;
 }
+#github-link {
+padding-left: 150px;
+}
